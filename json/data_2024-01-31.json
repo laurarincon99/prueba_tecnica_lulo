@@ -11660,14 +11660,14 @@
                     "original": "https://static.tvmaze.com/uploads/images/original_untouched/525/1313265.jpg"
                 },
                 "summary": "<p>\"Hot Ones\" spin-off series where guests have two choices: Tell the truth, or suffer the wrath of the Last Dab. Whoever eats the most wings, loses.</p>",
-                "updated": 1732219645,
+                "updated": 1733442604,
                 "_links": {
                     "self": {
                         "href": "https://api.tvmaze.com/shows/78088"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3064202",
-                        "name": "Richard Sherman vs. Ryan Fitzpatrick"
+                        "href": "https://api.tvmaze.com/episodes/3077371",
+                        "name": "Limp Bizkit's Fred Durst vs. Kyle Mooney"
                     }
                 }
             }
@@ -12399,7 +12399,7 @@
                     "original": "https://static.tvmaze.com/uploads/images/original_untouched/519/1298651.jpg"
                 },
                 "summary": "<p><b>Days of our Lives</b> is set in the fictitious Midwestern town of Salem. The core families are the Bradys, the Hortons and the DiMeras, and the multi-layered storylines involve elements of romance, adventure, mystery, comedy and drama.</p><p>Beginning on September 12, 2022, DAYS became exclusive to streaming on Peacock.</p>",
-                "updated": 1733358924,
+                "updated": 1733444315,
                 "_links": {
                     "self": {
                         "href": "https://api.tvmaze.com/shows/812"
