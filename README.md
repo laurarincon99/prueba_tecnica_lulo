@@ -31,6 +31,7 @@ Este repositorio muestra cómo conectarse a la API de http://api.tvmaze.com para
 3. json/ En esa carpeta encontrará los archivos JSON, cada uno de ellos contiene la información extraida de la APi por día.
 4. profiling/ Encontrará los archivos HTML de los profiling generados, además un documento de texto (Análisis_profiling.docx) con el análisis de la información suministrada en el HTML
 5. src/ Se almacenan los notebooks creados para el desarrollo del ejercicio.
+6. model/ Contiene la imagen con el diagrama entidad-relación de la base de datos
 
 ### Ejecución:
 
