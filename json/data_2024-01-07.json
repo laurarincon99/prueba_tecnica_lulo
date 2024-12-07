@@ -319,7 +319,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 54,
+                "weight": 61,
                 "network": null,
                 "webChannel": {
                     "id": 208,
@@ -588,7 +588,7 @@
                 "rating": {
                     "average": 7.1
                 },
-                "weight": 87,
+                "weight": 88,
                 "network": null,
                 "webChannel": {
                     "id": 104,
@@ -858,7 +858,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 72,
+                "weight": 73,
                 "network": null,
                 "webChannel": {
                     "id": 118,
@@ -1219,7 +1219,7 @@
                 "rating": {
                     "average": 7.2
                 },
-                "weight": 78,
+                "weight": 45,
                 "network": null,
                 "webChannel": {
                     "id": 51,
@@ -1949,7 +1949,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 10,
+                "weight": 9,
                 "network": null,
                 "webChannel": {
                     "id": 104,
@@ -2043,7 +2043,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 10,
+                "weight": 9,
                 "network": null,
                 "webChannel": {
                     "id": 104,
@@ -2314,7 +2314,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 22,
+                "weight": 21,
                 "network": null,
                 "webChannel": {
                     "id": 542,
@@ -3981,7 +3981,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 38,
+                "weight": 39,
                 "network": {
                     "id": 40,
                     "name": "CNN",
@@ -4343,7 +4343,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 6,
+                "weight": 29,
                 "network": null,
                 "webChannel": {
                     "id": 102,

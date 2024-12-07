@@ -139,7 +139,7 @@
                 "rating": {
                     "average": 7.3
                 },
-                "weight": 78,
+                "weight": 80,
                 "network": null,
                 "webChannel": {
                     "id": 104,
@@ -405,7 +405,7 @@
                 "rating": {
                     "average": 8
                 },
-                "weight": 74,
+                "weight": 78,
                 "network": null,
                 "webChannel": {
                     "id": 118,
@@ -859,7 +859,7 @@
                 "rating": {
                     "average": 8
                 },
-                "weight": 83,
+                "weight": 84,
                 "network": null,
                 "webChannel": {
                     "id": 51,
@@ -1568,7 +1568,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 73,
+                "weight": 76,
                 "network": null,
                 "webChannel": {
                     "id": 118,
@@ -1934,7 +1934,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 10,
+                "weight": 9,
                 "network": null,
                 "webChannel": {
                     "id": 104,
@@ -2837,7 +2837,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 3,
+                "weight": 1,
                 "network": null,
                 "webChannel": {
                     "id": 86,
@@ -2926,7 +2926,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 4,
+                "weight": 6,
                 "network": null,
                 "webChannel": {
                     "id": 467,
@@ -3381,7 +3381,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 62,
+                "weight": 27,
                 "network": null,
                 "webChannel": {
                     "id": 327,
@@ -3471,7 +3471,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 62,
+                "weight": 27,
                 "network": null,
                 "webChannel": {
                     "id": 327,
@@ -3564,7 +3564,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 3,
+                "weight": 7,
                 "network": {
                     "id": 481,
                     "name": "Beijing TV",
@@ -3657,7 +3657,7 @@
                 "rating": {
                     "average": 7.4
                 },
-                "weight": 87,
+                "weight": 82,
                 "network": null,
                 "webChannel": {
                     "id": 21,
@@ -3676,14 +3676,14 @@
                     "original": "https://static.tvmaze.com/uploads/images/original_untouched/23/59454.jpg"
                 },
                 "summary": "<p><b>Simon's Cat</b> is an animated series featuring the mischievous and often hilarious antics of a fat white cat and his owner Simon.</p>",
-                "updated": 1733043280,
+                "updated": 1733493626,
                 "_links": {
                     "self": {
                         "href": "https://api.tvmaze.com/shows/6141"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3071384",
-                        "name": "Rules for Cats (By Cats) - Caturday Film Club"
+                        "href": "https://api.tvmaze.com/episodes/3077455",
+                        "name": "COZY CHRISTMAS (Full Colour Special!)"
                     }
                 }
             }
@@ -4582,7 +4582,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 33,
+                "weight": 65,
                 "network": null,
                 "webChannel": {
                     "id": 67,
@@ -4766,7 +4766,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 7,
+                "weight": 6,
                 "network": null,
                 "webChannel": {
                     "id": 118,
@@ -5134,7 +5134,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 29,
+                "weight": 3,
                 "network": null,
                 "webChannel": {
                     "id": 21,

@@ -475,7 +475,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 33,
+                "weight": 34,
                 "network": null,
                 "webChannel": {
                     "id": 491,
@@ -649,7 +649,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 76,
+                "weight": 77,
                 "network": null,
                 "webChannel": {
                     "id": 104,
@@ -3121,7 +3121,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 3,
+                "weight": 1,
                 "network": null,
                 "webChannel": {
                     "id": 86,
@@ -3210,7 +3210,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 4,
+                "weight": 6,
                 "network": null,
                 "webChannel": {
                     "id": 467,
@@ -3484,7 +3484,7 @@
                 "rating": {
                     "average": 6.5
                 },
-                "weight": 95,
+                "weight": 94,
                 "network": null,
                 "webChannel": {
                     "id": 26,
@@ -3572,7 +3572,7 @@
                 "rating": {
                     "average": 6.5
                 },
-                "weight": 95,
+                "weight": 94,
                 "network": null,
                 "webChannel": {
                     "id": 26,
@@ -3660,7 +3660,7 @@
                 "rating": {
                     "average": 6.5
                 },
-                "weight": 95,
+                "weight": 94,
                 "network": null,
                 "webChannel": {
                     "id": 26,
@@ -3748,7 +3748,7 @@
                 "rating": {
                     "average": 6.5
                 },
-                "weight": 95,
+                "weight": 94,
                 "network": null,
                 "webChannel": {
                     "id": 26,
@@ -3836,7 +3836,7 @@
                 "rating": {
                     "average": 6.5
                 },
-                "weight": 95,
+                "weight": 94,
                 "network": null,
                 "webChannel": {
                     "id": 26,
@@ -3924,7 +3924,7 @@
                 "rating": {
                     "average": 6.5
                 },
-                "weight": 95,
+                "weight": 94,
                 "network": null,
                 "webChannel": {
                     "id": 26,
@@ -4107,7 +4107,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 71,
+                "weight": 72,
                 "network": {
                     "id": 790,
                     "name": "\u041f\u044f\u0442\u044b\u0439 \u043a\u0430\u043d\u0430\u043b",
@@ -4136,10 +4136,6 @@
                         "href": "https://api.tvmaze.com/shows/43648"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3076426",
-                        "name": "\u041f\u043e\u0441\u043c\u0435\u0440\u0442\u043d\u0430\u044f \u0436\u0438\u0437\u043d\u044c \u0433\u0440\u0430\u0436\u0434\u0430\u043d\u0438\u043d\u0430 \u041d."
-                    },
-                    "nextepisode": {
                         "href": "https://api.tvmaze.com/episodes/3076427",
                         "name": "\u0412 \u0440\u0435\u0441\u0443\u0440\u0441\u0435"
                     }
@@ -4388,7 +4384,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 31,
+                "weight": 26,
                 "network": {
                     "id": 166,
                     "name": "MBC",
@@ -4484,7 +4480,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 10,
+                "weight": 9,
                 "network": null,
                 "webChannel": {
                     "id": 458,
@@ -4571,7 +4567,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 10,
+                "weight": 9,
                 "network": null,
                 "webChannel": {
                     "id": 458,
@@ -4663,7 +4659,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 10,
+                "weight": 9,
                 "network": null,
                 "webChannel": {
                     "id": 104,
@@ -4755,7 +4751,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 10,
+                "weight": 9,
                 "network": null,
                 "webChannel": {
                     "id": 104,
@@ -5195,7 +5191,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 10,
+                "weight": 9,
                 "network": null,
                 "webChannel": {
                     "id": 489,
@@ -5556,7 +5552,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 70,
+                "weight": 75,
                 "network": null,
                 "webChannel": {
                     "id": 103,
@@ -5906,16 +5902,12 @@
                     "original": "https://static.tvmaze.com/uploads/images/original_untouched/190/476019.jpg"
                 },
                 "summary": "<p>Morning talk show created by Rhett McLaughlin and Charles Lincoln 'Link' Neal contains loads of laughter and insanity, known for this quote: \"We do this, so you don't have to.\"</p>",
-                "updated": 1733400892,
+                "updated": 1733473252,
                 "_links": {
                     "self": {
                         "href": "https://api.tvmaze.com/shows/41611"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3070995",
-                        "name": "12/5/24"
-                    },
-                    "nextepisode": {
                         "href": "https://api.tvmaze.com/episodes/3070996",
                         "name": "12/6/24"
                     }
@@ -6307,7 +6299,7 @@
                 "rating": {
                     "average": 5.4
                 },
-                "weight": 88,
+                "weight": 89,
                 "network": null,
                 "webChannel": {
                     "id": 251,
@@ -6392,7 +6384,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 44,
+                "weight": 76,
                 "network": null,
                 "webChannel": {
                     "id": 251,
@@ -6559,7 +6551,7 @@
                 "rating": {
                     "average": 6.8
                 },
-                "weight": 97,
+                "weight": 98,
                 "network": null,
                 "webChannel": {
                     "id": 310,
@@ -7889,7 +7881,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 11,
+                "weight": 8,
                 "network": null,
                 "webChannel": {
                     "id": 619,
@@ -8645,7 +8637,7 @@
                 "rating": {
                     "average": 5.3
                 },
-                "weight": 72,
+                "weight": 73,
                 "network": null,
                 "webChannel": {
                     "id": 1,
@@ -8730,7 +8722,7 @@
                 "rating": {
                     "average": 5.3
                 },
-                "weight": 72,
+                "weight": 73,
                 "network": null,
                 "webChannel": {
                     "id": 1,
@@ -8815,7 +8807,7 @@
                 "rating": {
                     "average": 5.3
                 },
-                "weight": 72,
+                "weight": 73,
                 "network": null,
                 "webChannel": {
                     "id": 1,
@@ -8900,7 +8892,7 @@
                 "rating": {
                     "average": 5.3
                 },
-                "weight": 72,
+                "weight": 73,
                 "network": null,
                 "webChannel": {
                     "id": 1,
@@ -8985,7 +8977,7 @@
                 "rating": {
                     "average": 5.3
                 },
-                "weight": 72,
+                "weight": 73,
                 "network": null,
                 "webChannel": {
                     "id": 1,
@@ -9070,7 +9062,7 @@
                 "rating": {
                     "average": 5.3
                 },
-                "weight": 72,
+                "weight": 73,
                 "network": null,
                 "webChannel": {
                     "id": 1,
@@ -9155,7 +9147,7 @@
                 "rating": {
                     "average": 5.3
                 },
-                "weight": 72,
+                "weight": 73,
                 "network": null,
                 "webChannel": {
                     "id": 1,
@@ -9240,7 +9232,7 @@
                 "rating": {
                     "average": 5.3
                 },
-                "weight": 72,
+                "weight": 73,
                 "network": null,
                 "webChannel": {
                     "id": 1,
@@ -9327,7 +9319,7 @@
                 "rating": {
                     "average": 7.2
                 },
-                "weight": 88,
+                "weight": 83,
                 "network": null,
                 "webChannel": {
                     "id": 287,
@@ -9414,7 +9406,7 @@
                 "rating": {
                     "average": 7.2
                 },
-                "weight": 88,
+                "weight": 83,
                 "network": null,
                 "webChannel": {
                     "id": 287,
@@ -10895,7 +10887,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 16,
+                "weight": 15,
                 "network": null,
                 "webChannel": {
                     "id": 367,
@@ -11477,7 +11469,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 9,
+                "weight": 6,
                 "network": null,
                 "webChannel": {
                     "id": 623,
@@ -11641,7 +11633,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 53,
+                "weight": 58,
                 "network": null,
                 "webChannel": {
                     "id": 21,
@@ -11725,7 +11717,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 7,
+                "weight": 8,
                 "network": null,
                 "webChannel": {
                     "id": 552,
@@ -12085,7 +12077,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 64,
+                "weight": 63,
                 "network": {
                     "id": 1,
                     "name": "NBC",
@@ -12117,18 +12109,18 @@
                     "original": "https://static.tvmaze.com/uploads/images/original_untouched/485/1212880.jpg"
                 },
                 "summary": "<p>A news program intended to inform, entertain, inspire and set the agenda each morning. Each daily live broadcast provides current domestic and international news, weather reports, and interviews with newsmakers from the worlds of politics, business, media, entertainment and sports.</p>",
-                "updated": 1733407813,
+                "updated": 1733494341,
                 "_links": {
                     "self": {
                         "href": "https://api.tvmaze.com/shows/72466"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3067343",
-                        "name": "Margo Martindale, Dax"
-                    },
-                    "nextepisode": {
                         "href": "https://api.tvmaze.com/episodes/3067344",
                         "name": "Clea Shearer, Leon Bridges"
+                    },
+                    "nextepisode": {
+                        "href": "https://api.tvmaze.com/episodes/3076337",
+                        "name": "Episode 233"
                     }
                 }
             }
@@ -12187,7 +12179,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 87,
+                "weight": 88,
                 "network": {
                     "id": 132,
                     "name": "Tokyo MX",
@@ -12281,7 +12273,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 34,
+                "weight": 4,
                 "network": null,
                 "webChannel": {
                     "id": 643,
@@ -12376,7 +12368,7 @@
                 "rating": {
                     "average": 7
                 },
-                "weight": 95,
+                "weight": 96,
                 "network": null,
                 "webChannel": {
                     "id": 347,
@@ -12405,12 +12397,12 @@
                         "href": "https://api.tvmaze.com/shows/812"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3076120",
-                        "name": "Ep. #15003"
-                    },
-                    "nextepisode": {
                         "href": "https://api.tvmaze.com/episodes/3076121",
                         "name": "Ep. #15004"
+                    },
+                    "nextepisode": {
+                        "href": "https://api.tvmaze.com/episodes/3076122",
+                        "name": "Ep. #15005"
                     }
                 }
             }
@@ -12553,7 +12545,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 76,
+                "weight": 77,
                 "network": null,
                 "webChannel": {
                     "id": 83,
@@ -12668,18 +12660,18 @@
                     "original": "https://static.tvmaze.com/uploads/images/original_untouched/497/1243761.jpg"
                 },
                 "summary": "<p>NBC News provides viewers with up-to-the-minute national and international news.</p>",
-                "updated": 1733420507,
+                "updated": 1733507212,
                 "_links": {
                     "self": {
                         "href": "https://api.tvmaze.com/shows/73192"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3067359",
-                        "name": "Episode 228"
-                    },
-                    "nextepisode": {
                         "href": "https://api.tvmaze.com/episodes/3067360",
                         "name": "Episode 229"
+                    },
+                    "nextepisode": {
+                        "href": "https://api.tvmaze.com/episodes/3076362",
+                        "name": "Episode 230"
                     }
                 }
             }
@@ -12823,7 +12815,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 6,
+                "weight": 4,
                 "network": null,
                 "webChannel": {
                     "id": 619,
@@ -13521,7 +13513,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 70,
+                "weight": 69,
                 "network": {
                     "id": 3,
                     "name": "ABC",
@@ -13553,18 +13545,18 @@
                     "original": "https://static.tvmaze.com/uploads/images/original_untouched/488/1221795.jpg"
                 },
                 "summary": "<p>News, lifestyle and entertainment program hosted by Eva Pilgrim, DeMarco Morgan and Dr. Jennifer Ashton.</p>",
-                "updated": 1733423946,
+                "updated": 1733508377,
                 "_links": {
                     "self": {
                         "href": "https://api.tvmaze.com/shows/72930"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3067363",
-                        "name": "Etienne Maurice, Tinashe"
-                    },
-                    "nextepisode": {
                         "href": "https://api.tvmaze.com/episodes/3067364",
                         "name": "Chef Yia Vang, Charly Edsitty, Bob Goff"
+                    },
+                    "nextepisode": {
+                        "href": "https://api.tvmaze.com/episodes/3076370",
+                        "name": "Episode 60"
                     }
                 }
             }
@@ -13996,7 +13988,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 9,
+                "weight": 6,
                 "network": null,
                 "webChannel": {
                     "id": 616,
@@ -14155,7 +14147,7 @@
                 ],
                 "status": "Running",
                 "runtime": null,
-                "averageRuntime": 107,
+                "averageRuntime": 108,
                 "premiered": "2018-09-12",
                 "ended": null,
                 "officialSite": "https://www.dropout.tv/dimension-20",
@@ -14168,7 +14160,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 88,
+                "weight": 87,
                 "network": null,
                 "webChannel": {
                     "id": 311,
@@ -14191,14 +14183,14 @@
                     "original": "https://static.tvmaze.com/uploads/images/original_untouched/342/856895.jpg"
                 },
                 "summary": "<p>Heed the call of adventure and enter <b>Dimension 20</b> where Game Master Brennan Lee Mulligan, joined by comedians and pro gamers, blends comedy with tabletop RPGs.</p>",
-                "updated": 1732832527,
+                "updated": 1733506170,
                 "_links": {
                     "self": {
                         "href": "https://api.tvmaze.com/shows/56531"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3069369",
-                        "name": "Turducken"
+                        "href": "https://api.tvmaze.com/episodes/3077457",
+                        "name": "The Show Goes On"
                     }
                 }
             }
@@ -14907,18 +14899,18 @@
                     "original": "https://static.tvmaze.com/uploads/images/original_untouched/534/1335993.jpg"
                 },
                 "summary": "<p>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's \"The Tonight Show\" back to its New York origins when he launched <b>The Tonight Show Starring Jimmy Fallon </b>from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</p>",
-                "updated": 1733425783,
+                "updated": 1733511391,
                 "_links": {
                     "self": {
                         "href": "https://api.tvmaze.com/shows/718"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3076452",
-                        "name": "Ice-T, Isabella Rossellini, Body Count"
-                    },
-                    "nextepisode": {
                         "href": "https://api.tvmaze.com/episodes/3076462",
                         "name": "Angelina Jolie, Sebastian Stan, Andrew Ridgeley, Laura Peek"
+                    },
+                    "nextepisode": {
+                        "href": "https://api.tvmaze.com/episodes/3076463",
+                        "name": "Keira Knightley, Christian Slater, Dean Edwards"
                     }
                 }
             }

@@ -139,7 +139,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 71,
+                "weight": 66,
                 "network": null,
                 "webChannel": {
                     "id": 104,
@@ -257,12 +257,12 @@
                         "href": "https://api.tvmaze.com/shows/55019"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3066858",
-                        "name": "Episode 436"
-                    },
-                    "nextepisode": {
                         "href": "https://api.tvmaze.com/episodes/3066859",
                         "name": "Episode 437"
+                    },
+                    "nextepisode": {
+                        "href": "https://api.tvmaze.com/episodes/3066860",
+                        "name": "Episode 438"
                     }
                 }
             }
@@ -322,7 +322,7 @@
                 "rating": {
                     "average": 7.8
                 },
-                "weight": 81,
+                "weight": 78,
                 "network": null,
                 "webChannel": {
                     "id": 104,
@@ -351,12 +351,12 @@
                         "href": "https://api.tvmaze.com/shows/62143"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3073515",
-                        "name": "Episode 363"
-                    },
-                    "nextepisode": {
                         "href": "https://api.tvmaze.com/episodes/3073516",
                         "name": "Episode 364"
+                    },
+                    "nextepisode": {
+                        "href": "https://api.tvmaze.com/episodes/3073517",
+                        "name": "Episode 365"
                     }
                 }
             }
@@ -503,7 +503,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 75,
+                "weight": 78,
                 "network": null,
                 "webChannel": {
                     "id": 104,
@@ -1135,7 +1135,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 50,
+                "weight": 49,
                 "network": null,
                 "webChannel": {
                     "id": 104,
@@ -1229,7 +1229,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 6,
+                "weight": 9,
                 "network": null,
                 "webChannel": {
                     "id": 104,
@@ -2429,7 +2429,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 3,
+                "weight": 1,
                 "network": null,
                 "webChannel": {
                     "id": 86,
@@ -2690,7 +2690,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 29,
+                "weight": 30,
                 "network": null,
                 "webChannel": {
                     "id": 51,
@@ -3934,7 +3934,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 71,
+                "weight": 72,
                 "network": {
                     "id": 790,
                     "name": "\u041f\u044f\u0442\u044b\u0439 \u043a\u0430\u043d\u0430\u043b",
@@ -3963,10 +3963,6 @@
                         "href": "https://api.tvmaze.com/shows/43648"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3076426",
-                        "name": "\u041f\u043e\u0441\u043c\u0435\u0440\u0442\u043d\u0430\u044f \u0436\u0438\u0437\u043d\u044c \u0433\u0440\u0430\u0436\u0434\u0430\u043d\u0438\u043d\u0430 \u041d."
-                    },
-                    "nextepisode": {
                         "href": "https://api.tvmaze.com/episodes/3076427",
                         "name": "\u0412 \u0440\u0435\u0441\u0443\u0440\u0441\u0435"
                     }
@@ -4215,7 +4211,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 31,
+                "weight": 26,
                 "network": {
                     "id": 166,
                     "name": "MBC",
@@ -4502,7 +4498,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 10,
+                "weight": 9,
                 "network": null,
                 "webChannel": {
                     "id": 104,
@@ -4594,7 +4590,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 10,
+                "weight": 9,
                 "network": null,
                 "webChannel": {
                     "id": 104,
@@ -6077,7 +6073,7 @@
                 "rating": {
                     "average": 7.9
                 },
-                "weight": 88,
+                "weight": 71,
                 "network": {
                     "id": 280,
                     "name": "tvN",
@@ -6256,7 +6252,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 70,
+                "weight": 75,
                 "network": null,
                 "webChannel": {
                     "id": 103,
@@ -6441,16 +6437,12 @@
                     "original": "https://static.tvmaze.com/uploads/images/original_untouched/190/476019.jpg"
                 },
                 "summary": "<p>Morning talk show created by Rhett McLaughlin and Charles Lincoln 'Link' Neal contains loads of laughter and insanity, known for this quote: \"We do this, so you don't have to.\"</p>",
-                "updated": 1733400892,
+                "updated": 1733473252,
                 "_links": {
                     "self": {
                         "href": "https://api.tvmaze.com/shows/41611"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3070995",
-                        "name": "12/5/24"
-                    },
-                    "nextepisode": {
                         "href": "https://api.tvmaze.com/episodes/3070996",
                         "name": "12/6/24"
                     }
@@ -7173,7 +7165,7 @@
                 "rating": {
                     "average": 5.4
                 },
-                "weight": 88,
+                "weight": 89,
                 "network": null,
                 "webChannel": {
                     "id": 251,
@@ -7362,14 +7354,18 @@
                     "original": "https://static.tvmaze.com/uploads/images/original_untouched/419/1049676.jpg"
                 },
                 "summary": "<p>The universe is vast, producing countless types of life forms. These life forms form all kinds of souls. All races and spirits have different races and different beliefs, but the same is the extravagant hope for Taoism. Any living beings are dusted with Dao heart, they are not willing to do this, they become powerful and even live forever by enlightening Dao through practice. The Avenue of Heaven and Earth is like luck, where the able live. The road to the great road is the road to struggle for the road, which has caused the struggle of all races and souls. An era can only support a few people to gain the Tao. Those who have attained the Tao think that standing on the top of the world, they can be free in the future. But I found that even Dao. It's also hard to escape bad luck. There is a ruler above them, harvesting one era after another, and the cultivators of the world want to maintain their ambitions. Ten thousand races and all spirits are just nourished by these rulers. These masters harvest the Taoists, harvest the spirituality of each world, and destroy one by one. The Taoists in the past were unwilling to be reaped and resisted constantly, but failed every time. Until\u2026 the protagonist Ye Yu appeared, he peeled away one time and one secret. As he unfolded an epic picture scroll, in this magnificent world, he continued to grow, experience love and friendship, cleanse the dusted Taoist heart, and finally confront the master who harvests all races.</p>",
-                "updated": 1733046074,
+                "updated": 1733505609,
                 "_links": {
                     "self": {
                         "href": "https://api.tvmaze.com/shows/63719"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3071408",
-                        "name": "Episode 460"
+                        "href": "https://api.tvmaze.com/episodes/3077667",
+                        "name": "Episode 475"
+                    },
+                    "nextepisode": {
+                        "href": "https://api.tvmaze.com/episodes/3077668",
+                        "name": "Episode 476"
                     }
                 }
             }
@@ -7848,7 +7844,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 11,
+                "weight": 8,
                 "network": null,
                 "webChannel": {
                     "id": 619,
@@ -10499,7 +10495,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 9,
+                "weight": 6,
                 "network": null,
                 "webChannel": {
                     "id": 623,
@@ -10666,7 +10662,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 7,
+                "weight": 8,
                 "network": null,
                 "webChannel": {
                     "id": 552,
@@ -11206,7 +11202,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 64,
+                "weight": 63,
                 "network": {
                     "id": 1,
                     "name": "NBC",
@@ -11238,18 +11234,18 @@
                     "original": "https://static.tvmaze.com/uploads/images/original_untouched/485/1212880.jpg"
                 },
                 "summary": "<p>A news program intended to inform, entertain, inspire and set the agenda each morning. Each daily live broadcast provides current domestic and international news, weather reports, and interviews with newsmakers from the worlds of politics, business, media, entertainment and sports.</p>",
-                "updated": 1733407813,
+                "updated": 1733494341,
                 "_links": {
                     "self": {
                         "href": "https://api.tvmaze.com/shows/72466"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3067343",
-                        "name": "Margo Martindale, Dax"
-                    },
-                    "nextepisode": {
                         "href": "https://api.tvmaze.com/episodes/3067344",
                         "name": "Clea Shearer, Leon Bridges"
+                    },
+                    "nextepisode": {
+                        "href": "https://api.tvmaze.com/episodes/3076337",
+                        "name": "Episode 233"
                     }
                 }
             }
@@ -11304,7 +11300,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 34,
+                "weight": 4,
                 "network": null,
                 "webChannel": {
                     "id": 643,
@@ -11491,7 +11487,7 @@
                 "rating": {
                     "average": 7
                 },
-                "weight": 95,
+                "weight": 96,
                 "network": null,
                 "webChannel": {
                     "id": 347,
@@ -11520,12 +11516,12 @@
                         "href": "https://api.tvmaze.com/shows/812"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3076120",
-                        "name": "Ep. #15003"
-                    },
-                    "nextepisode": {
                         "href": "https://api.tvmaze.com/episodes/3076121",
                         "name": "Ep. #15004"
+                    },
+                    "nextepisode": {
+                        "href": "https://api.tvmaze.com/episodes/3076122",
+                        "name": "Ep. #15005"
                     }
                 }
             }
@@ -11783,18 +11779,18 @@
                     "original": "https://static.tvmaze.com/uploads/images/original_untouched/497/1243761.jpg"
                 },
                 "summary": "<p>NBC News provides viewers with up-to-the-minute national and international news.</p>",
-                "updated": 1733420507,
+                "updated": 1733507212,
                 "_links": {
                     "self": {
                         "href": "https://api.tvmaze.com/shows/73192"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3067359",
-                        "name": "Episode 228"
-                    },
-                    "nextepisode": {
                         "href": "https://api.tvmaze.com/episodes/3067360",
                         "name": "Episode 229"
+                    },
+                    "nextepisode": {
+                        "href": "https://api.tvmaze.com/episodes/3076362",
+                        "name": "Episode 230"
                     }
                 }
             }
@@ -11852,7 +11848,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 6,
+                "weight": 4,
                 "network": null,
                 "webChannel": {
                     "id": 619,
@@ -12459,7 +12455,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 70,
+                "weight": 69,
                 "network": {
                     "id": 3,
                     "name": "ABC",
@@ -12491,18 +12487,18 @@
                     "original": "https://static.tvmaze.com/uploads/images/original_untouched/488/1221795.jpg"
                 },
                 "summary": "<p>News, lifestyle and entertainment program hosted by Eva Pilgrim, DeMarco Morgan and Dr. Jennifer Ashton.</p>",
-                "updated": 1733423946,
+                "updated": 1733508377,
                 "_links": {
                     "self": {
                         "href": "https://api.tvmaze.com/shows/72930"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3067363",
-                        "name": "Etienne Maurice, Tinashe"
-                    },
-                    "nextepisode": {
                         "href": "https://api.tvmaze.com/episodes/3067364",
                         "name": "Chef Yia Vang, Charly Edsitty, Bob Goff"
+                    },
+                    "nextepisode": {
+                        "href": "https://api.tvmaze.com/episodes/3076370",
+                        "name": "Episode 60"
                     }
                 }
             }
@@ -13016,7 +13012,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 9,
+                "weight": 6,
                 "network": null,
                 "webChannel": {
                     "id": 616,
@@ -13275,7 +13271,7 @@
                 "rating": {
                     "average": 7.5
                 },
-                "weight": 96,
+                "weight": 97,
                 "network": {
                     "id": 30,
                     "name": "USA Network",
@@ -13372,7 +13368,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 46,
+                "weight": 47,
                 "network": null,
                 "webChannel": {
                     "id": 190,
@@ -13764,18 +13760,18 @@
                     "original": "https://static.tvmaze.com/uploads/images/original_untouched/534/1335993.jpg"
                 },
                 "summary": "<p>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's \"The Tonight Show\" back to its New York origins when he launched <b>The Tonight Show Starring Jimmy Fallon </b>from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</p>",
-                "updated": 1733425783,
+                "updated": 1733511391,
                 "_links": {
                     "self": {
                         "href": "https://api.tvmaze.com/shows/718"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3076452",
-                        "name": "Ice-T, Isabella Rossellini, Body Count"
-                    },
-                    "nextepisode": {
                         "href": "https://api.tvmaze.com/episodes/3076462",
                         "name": "Angelina Jolie, Sebastian Stan, Andrew Ridgeley, Laura Peek"
+                    },
+                    "nextepisode": {
+                        "href": "https://api.tvmaze.com/episodes/3076463",
+                        "name": "Keira Knightley, Christian Slater, Dean Edwards"
                     }
                 }
             }

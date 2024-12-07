@@ -50,7 +50,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 33,
+                "weight": 34,
                 "network": null,
                 "webChannel": {
                     "id": 491,
@@ -222,7 +222,7 @@
                 "rating": {
                     "average": 7.3
                 },
-                "weight": 78,
+                "weight": 80,
                 "network": null,
                 "webChannel": {
                     "id": 104,
@@ -488,7 +488,7 @@
                 "rating": {
                     "average": 8
                 },
-                "weight": 74,
+                "weight": 78,
                 "network": null,
                 "webChannel": {
                     "id": 118,
@@ -1656,7 +1656,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 73,
+                "weight": 76,
                 "network": null,
                 "webChannel": {
                     "id": 118,
@@ -2282,7 +2282,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 50,
+                "weight": 49,
                 "network": null,
                 "webChannel": {
                     "id": 104,
@@ -2376,7 +2376,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 10,
+                "weight": 9,
                 "network": null,
                 "webChannel": {
                     "id": 104,
@@ -2470,7 +2470,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 10,
+                "weight": 9,
                 "network": null,
                 "webChannel": {
                     "id": 104,
@@ -2564,7 +2564,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 6,
+                "weight": 9,
                 "network": null,
                 "webChannel": {
                     "id": 104,
@@ -2658,7 +2658,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 6,
+                "weight": 9,
                 "network": null,
                 "webChannel": {
                     "id": 104,
@@ -2926,7 +2926,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 3,
+                "weight": 1,
                 "network": null,
                 "webChannel": {
                     "id": 86,
@@ -3015,7 +3015,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 4,
+                "weight": 6,
                 "network": null,
                 "webChannel": {
                     "id": 467,
@@ -3228,12 +3228,12 @@
                         "href": "https://api.tvmaze.com/shows/24963"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3071192",
-                        "name": "World Tag League 2024 Day 13"
-                    },
-                    "nextepisode": {
                         "href": "https://api.tvmaze.com/episodes/3071194",
                         "name": "World Tag League 2024 Day 14"
+                    },
+                    "nextepisode": {
+                        "href": "https://api.tvmaze.com/episodes/3071202",
+                        "name": "World Tag League 2024 Day 15"
                     }
                 }
             }
@@ -3927,7 +3927,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 10,
+                "weight": 9,
                 "network": null,
                 "webChannel": {
                     "id": 104,
@@ -4019,7 +4019,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 10,
+                "weight": 9,
                 "network": null,
                 "webChannel": {
                     "id": 104,
@@ -4109,7 +4109,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 62,
+                "weight": 27,
                 "network": null,
                 "webChannel": {
                     "id": 327,
@@ -4199,7 +4199,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 62,
+                "weight": 27,
                 "network": null,
                 "webChannel": {
                     "id": 327,
@@ -4292,7 +4292,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 3,
+                "weight": 7,
                 "network": {
                     "id": 481,
                     "name": "Beijing TV",
@@ -5679,7 +5679,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 33,
+                "weight": 65,
                 "network": null,
                 "webChannel": {
                     "id": 67,
@@ -6027,7 +6027,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 7,
+                "weight": 6,
                 "network": null,
                 "webChannel": {
                     "id": 118,

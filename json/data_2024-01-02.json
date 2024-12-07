@@ -939,7 +939,7 @@
                 "rating": {
                     "average": 7.1
                 },
-                "weight": 87,
+                "weight": 88,
                 "network": null,
                 "webChannel": {
                     "id": 104,
@@ -1030,7 +1030,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 76,
+                "weight": 73,
                 "network": null,
                 "webChannel": {
                     "id": 104,
@@ -1385,7 +1385,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 44,
+                "weight": 49,
                 "network": null,
                 "webChannel": {
                     "id": 104,
@@ -2294,7 +2294,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 73,
+                "weight": 76,
                 "network": null,
                 "webChannel": {
                     "id": 118,
@@ -2559,7 +2559,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 23,
+                "weight": 26,
                 "network": null,
                 "webChannel": {
                     "id": 118,
@@ -2740,7 +2740,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 6,
+                "weight": 32,
                 "network": null,
                 "webChannel": {
                     "id": 104,
@@ -4394,7 +4394,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 3,
+                "weight": 1,
                 "network": null,
                 "webChannel": {
                     "id": 86,
@@ -6841,7 +6841,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 31,
+                "weight": 26,
                 "network": {
                     "id": 166,
                     "name": "MBC",
@@ -7610,7 +7610,7 @@
                 "rating": {
                     "average": 7.9
                 },
-                "weight": 88,
+                "weight": 71,
                 "network": {
                     "id": 280,
                     "name": "tvN",
@@ -7791,7 +7791,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 72,
+                "weight": 69,
                 "network": null,
                 "webChannel": {
                     "id": 103,
@@ -8461,7 +8461,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 61,
+                "weight": 62,
                 "network": null,
                 "webChannel": {
                     "id": 107,
@@ -9078,7 +9078,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 11,
+                "weight": 8,
                 "network": null,
                 "webChannel": {
                     "id": 619,
@@ -9525,7 +9525,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 63,
+                "weight": 61,
                 "network": null,
                 "webChannel": {
                     "id": 67,
@@ -9948,7 +9948,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 9,
+                "weight": 6,
                 "network": null,
                 "webChannel": {
                     "id": 623,
@@ -10116,7 +10116,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 7,
+                "weight": 8,
                 "network": null,
                 "webChannel": {
                     "id": 552,
@@ -10707,7 +10707,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 64,
+                "weight": 63,
                 "network": {
                     "id": 1,
                     "name": "NBC",
@@ -10739,18 +10739,18 @@
                     "original": "https://static.tvmaze.com/uploads/images/original_untouched/485/1212880.jpg"
                 },
                 "summary": "<p>A news program intended to inform, entertain, inspire and set the agenda each morning. Each daily live broadcast provides current domestic and international news, weather reports, and interviews with newsmakers from the worlds of politics, business, media, entertainment and sports.</p>",
-                "updated": 1733407813,
+                "updated": 1733494341,
                 "_links": {
                     "self": {
                         "href": "https://api.tvmaze.com/shows/72466"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3067343",
-                        "name": "Margo Martindale, Dax"
-                    },
-                    "nextepisode": {
                         "href": "https://api.tvmaze.com/episodes/3067344",
                         "name": "Clea Shearer, Leon Bridges"
+                    },
+                    "nextepisode": {
+                        "href": "https://api.tvmaze.com/episodes/3076337",
+                        "name": "Episode 233"
                     }
                 }
             }
@@ -10815,7 +10815,7 @@
                 "rating": {
                     "average": 7
                 },
-                "weight": 95,
+                "weight": 96,
                 "network": null,
                 "webChannel": {
                     "id": 347,
@@ -10844,12 +10844,12 @@
                         "href": "https://api.tvmaze.com/shows/812"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3076120",
-                        "name": "Ep. #15003"
-                    },
-                    "nextepisode": {
                         "href": "https://api.tvmaze.com/episodes/3076121",
                         "name": "Ep. #15004"
+                    },
+                    "nextepisode": {
+                        "href": "https://api.tvmaze.com/episodes/3076122",
+                        "name": "Ep. #15005"
                     }
                 }
             }
@@ -10905,7 +10905,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 73,
+                "weight": 75,
                 "network": null,
                 "webChannel": {
                     "id": 311,
@@ -11016,18 +11016,18 @@
                     "original": "https://static.tvmaze.com/uploads/images/original_untouched/497/1243761.jpg"
                 },
                 "summary": "<p>NBC News provides viewers with up-to-the-minute national and international news.</p>",
-                "updated": 1733420507,
+                "updated": 1733507212,
                 "_links": {
                     "self": {
                         "href": "https://api.tvmaze.com/shows/73192"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3067359",
-                        "name": "Episode 228"
-                    },
-                    "nextepisode": {
                         "href": "https://api.tvmaze.com/episodes/3067360",
                         "name": "Episode 229"
+                    },
+                    "nextepisode": {
+                        "href": "https://api.tvmaze.com/episodes/3076362",
+                        "name": "Episode 230"
                     }
                 }
             }
@@ -11086,7 +11086,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 77,
+                "weight": 42,
                 "network": null,
                 "webChannel": {
                     "id": 460,
@@ -11174,7 +11174,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 6,
+                "weight": 4,
                 "network": null,
                 "webChannel": {
                     "id": 619,
@@ -11605,7 +11605,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 70,
+                "weight": 69,
                 "network": {
                     "id": 3,
                     "name": "ABC",
@@ -11637,18 +11637,18 @@
                     "original": "https://static.tvmaze.com/uploads/images/original_untouched/488/1221795.jpg"
                 },
                 "summary": "<p>News, lifestyle and entertainment program hosted by Eva Pilgrim, DeMarco Morgan and Dr. Jennifer Ashton.</p>",
-                "updated": 1733423946,
+                "updated": 1733508377,
                 "_links": {
                     "self": {
                         "href": "https://api.tvmaze.com/shows/72930"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3067363",
-                        "name": "Etienne Maurice, Tinashe"
-                    },
-                    "nextepisode": {
                         "href": "https://api.tvmaze.com/episodes/3067364",
                         "name": "Chef Yia Vang, Charly Edsitty, Bob Goff"
+                    },
+                    "nextepisode": {
+                        "href": "https://api.tvmaze.com/episodes/3076370",
+                        "name": "Episode 60"
                     }
                 }
             }
@@ -11707,7 +11707,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 46,
+                "weight": 37,
                 "network": {
                     "id": 1328,
                     "name": "TV Nova",
@@ -11986,7 +11986,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 9,
+                "weight": 6,
                 "network": null,
                 "webChannel": {
                     "id": 616,

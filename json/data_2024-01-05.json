@@ -47,7 +47,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 33,
+                "weight": 64,
                 "network": null,
                 "webChannel": {
                     "id": 56,
@@ -304,7 +304,7 @@
                 ],
                 "status": "Running",
                 "runtime": null,
-                "averageRuntime": 56,
+                "averageRuntime": 59,
                 "premiered": "2023-11-03",
                 "ended": null,
                 "officialSite": "https://vk.com/video/playlist/-220754053_7",
@@ -317,7 +317,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 37,
+                "weight": 48,
                 "network": null,
                 "webChannel": {
                     "id": 569,
@@ -340,14 +340,14 @@
                     "original": "https://static.tvmaze.com/uploads/images/original_untouched/488/1221507.jpg"
                 },
                 "summary": "<p>Comedians of different genres will compete for 3 million rubles. But there is one \"but\" - initially, participants are given only one minute to perform. If the jury likes what is happening on stage, they can add minutes to the timer.</p>",
-                "updated": 1733041462,
+                "updated": 1733514005,
                 "_links": {
                     "self": {
                         "href": "https://api.tvmaze.com/shows/72413"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3071369",
-                        "name": "12 \u0432\u044b\u043f\u0443\u0441\u043a | \u0428\u0410\u0421\u0422\u0423\u041d \u0445 \u0414\u0415\u0414\u0418\u0429\u0415\u0412 \u0445 \u041c\u0410\u0420\u041a\u041e\u041d\u0418 \u0445 \u0412\u0410\u0428"
+                        "href": "https://api.tvmaze.com/episodes/3077752",
+                        "name": "13 \u0432\u044b\u043f\u0443\u0441\u043a | \u0428\u0410\u0421\u0422\u0423\u041d \u0445 \u041f\u0410\u0420\u0424\u0415\u041d\u042e\u041a \u0445 \u0421\u0410\u0422\u0418\u0420 \u0445 \u0412\u0410\u0428"
                     }
                 }
             }
@@ -604,12 +604,12 @@
                         "href": "https://api.tvmaze.com/shows/54894"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3070461",
-                        "name": "Episode 191"
-                    },
-                    "nextepisode": {
                         "href": "https://api.tvmaze.com/episodes/3070462",
                         "name": "Episode 192"
+                    },
+                    "nextepisode": {
+                        "href": "https://api.tvmaze.com/episodes/3070463",
+                        "name": "Episode 193"
                     }
                 }
             }
@@ -666,7 +666,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 76,
+                "weight": 73,
                 "network": null,
                 "webChannel": {
                     "id": 104,
@@ -784,12 +784,12 @@
                         "href": "https://api.tvmaze.com/shows/55019"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3066858",
-                        "name": "Episode 436"
-                    },
-                    "nextepisode": {
                         "href": "https://api.tvmaze.com/episodes/3066859",
                         "name": "Episode 437"
+                    },
+                    "nextepisode": {
+                        "href": "https://api.tvmaze.com/episodes/3066860",
+                        "name": "Episode 438"
                     }
                 }
             }
@@ -849,7 +849,7 @@
                 "rating": {
                     "average": 7.8
                 },
-                "weight": 81,
+                "weight": 78,
                 "network": null,
                 "webChannel": {
                     "id": 104,
@@ -878,12 +878,12 @@
                         "href": "https://api.tvmaze.com/shows/62143"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3073515",
-                        "name": "Episode 363"
-                    },
-                    "nextepisode": {
                         "href": "https://api.tvmaze.com/episodes/3073516",
                         "name": "Episode 364"
+                    },
+                    "nextepisode": {
+                        "href": "https://api.tvmaze.com/episodes/3073517",
+                        "name": "Episode 365"
                     }
                 }
             }
@@ -1030,7 +1030,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 81,
+                "weight": 80,
                 "network": null,
                 "webChannel": {
                     "id": 118,
@@ -1652,7 +1652,7 @@
                 "rating": {
                     "average": 7.1
                 },
-                "weight": 91,
+                "weight": 90,
                 "network": null,
                 "webChannel": {
                     "id": 454,
@@ -1743,7 +1743,7 @@
                 "rating": {
                     "average": 7.1
                 },
-                "weight": 91,
+                "weight": 90,
                 "network": null,
                 "webChannel": {
                     "id": 454,
@@ -1834,7 +1834,7 @@
                 "rating": {
                     "average": 7.1
                 },
-                "weight": 91,
+                "weight": 90,
                 "network": null,
                 "webChannel": {
                     "id": 454,
@@ -1925,7 +1925,7 @@
                 "rating": {
                     "average": 7.1
                 },
-                "weight": 91,
+                "weight": 90,
                 "network": null,
                 "webChannel": {
                     "id": 454,
@@ -2370,7 +2370,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 23,
+                "weight": 26,
                 "network": null,
                 "webChannel": {
                     "id": 118,
@@ -3274,7 +3274,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 3,
+                "weight": 1,
                 "network": null,
                 "webChannel": {
                     "id": 86,
@@ -3363,7 +3363,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 4,
+                "weight": 6,
                 "network": null,
                 "webChannel": {
                     "id": 467,
@@ -5246,12 +5246,12 @@
                         "href": "https://api.tvmaze.com/shows/24963"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3071192",
-                        "name": "World Tag League 2024 Day 13"
-                    },
-                    "nextepisode": {
                         "href": "https://api.tvmaze.com/episodes/3071194",
                         "name": "World Tag League 2024 Day 14"
+                    },
+                    "nextepisode": {
+                        "href": "https://api.tvmaze.com/episodes/3071202",
+                        "name": "World Tag League 2024 Day 15"
                     }
                 }
             }
@@ -5307,7 +5307,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 53,
+                "weight": 35,
                 "network": null,
                 "webChannel": {
                     "id": 439,
@@ -5400,7 +5400,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 31,
+                "weight": 26,
                 "network": {
                     "id": 166,
                     "name": "MBC",
@@ -5857,7 +5857,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 46,
+                "weight": 41,
                 "network": null,
                 "webChannel": {
                     "id": 12,
@@ -6914,7 +6914,7 @@
                 "rating": {
                     "average": 8
                 },
-                "weight": 82,
+                "weight": 76,
                 "network": null,
                 "webChannel": {
                     "id": 3,
@@ -6999,7 +6999,7 @@
                 "rating": {
                     "average": 8
                 },
-                "weight": 82,
+                "weight": 76,
                 "network": null,
                 "webChannel": {
                     "id": 3,
@@ -7084,7 +7084,7 @@
                 "rating": {
                     "average": 8
                 },
-                "weight": 82,
+                "weight": 76,
                 "network": null,
                 "webChannel": {
                     "id": 3,
@@ -7504,7 +7504,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 34,
+                "weight": 33,
                 "network": null,
                 "webChannel": {
                     "id": 173,
@@ -7931,7 +7931,7 @@
                 "rating": {
                     "average": 6.6
                 },
-                "weight": 94,
+                "weight": 95,
                 "network": null,
                 "webChannel": {
                     "id": 1,
@@ -8016,7 +8016,7 @@
                 "rating": {
                     "average": 6.6
                 },
-                "weight": 94,
+                "weight": 95,
                 "network": null,
                 "webChannel": {
                     "id": 1,
@@ -8101,7 +8101,7 @@
                 "rating": {
                     "average": 6.6
                 },
-                "weight": 94,
+                "weight": 95,
                 "network": null,
                 "webChannel": {
                     "id": 1,
@@ -8424,7 +8424,7 @@
                 "rating": {
                     "average": 5.5
                 },
-                "weight": 41,
+                "weight": 36,
                 "network": null,
                 "webChannel": {
                     "id": 67,
@@ -8938,7 +8938,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 11,
+                "weight": 8,
                 "network": null,
                 "webChannel": {
                     "id": 619,
@@ -9193,7 +9193,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 63,
+                "weight": 61,
                 "network": null,
                 "webChannel": {
                     "id": 67,
@@ -9273,7 +9273,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 54,
+                "weight": 60,
                 "network": null,
                 "webChannel": {
                     "id": 3,
@@ -9353,7 +9353,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 54,
+                "weight": 60,
                 "network": null,
                 "webChannel": {
                     "id": 3,
@@ -10134,12 +10134,8 @@
                         "href": "https://api.tvmaze.com/shows/74756"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3071241",
-                        "name": "Ingars fleshlight"
-                    },
-                    "nextepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3071242",
-                        "name": "Episode 4"
+                        "href": "https://api.tvmaze.com/episodes/3071244",
+                        "name": "Episode 6"
                     }
                 }
             }
@@ -10221,12 +10217,8 @@
                         "href": "https://api.tvmaze.com/shows/74756"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3071241",
-                        "name": "Ingars fleshlight"
-                    },
-                    "nextepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3071242",
-                        "name": "Episode 4"
+                        "href": "https://api.tvmaze.com/episodes/3071244",
+                        "name": "Episode 6"
                     }
                 }
             }
@@ -10536,7 +10528,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 9,
+                "weight": 6,
                 "network": null,
                 "webChannel": {
                     "id": 623,
@@ -11011,7 +11003,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 7,
+                "weight": 8,
                 "network": null,
                 "webChannel": {
                     "id": 552,
@@ -11354,7 +11346,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 64,
+                "weight": 63,
                 "network": {
                     "id": 1,
                     "name": "NBC",
@@ -11386,18 +11378,18 @@
                     "original": "https://static.tvmaze.com/uploads/images/original_untouched/485/1212880.jpg"
                 },
                 "summary": "<p>A news program intended to inform, entertain, inspire and set the agenda each morning. Each daily live broadcast provides current domestic and international news, weather reports, and interviews with newsmakers from the worlds of politics, business, media, entertainment and sports.</p>",
-                "updated": 1733407813,
+                "updated": 1733494341,
                 "_links": {
                     "self": {
                         "href": "https://api.tvmaze.com/shows/72466"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3067343",
-                        "name": "Margo Martindale, Dax"
-                    },
-                    "nextepisode": {
                         "href": "https://api.tvmaze.com/episodes/3067344",
                         "name": "Clea Shearer, Leon Bridges"
+                    },
+                    "nextepisode": {
+                        "href": "https://api.tvmaze.com/episodes/3076337",
+                        "name": "Episode 233"
                     }
                 }
             }
@@ -11451,7 +11443,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 77,
+                "weight": 84,
                 "network": {
                     "id": 1039,
                     "name": "Disney Junior",
@@ -11480,12 +11472,12 @@
                         "href": "https://api.tvmaze.com/shows/55961"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3035246",
-                        "name": "Copycat Pete!"
+                        "href": "https://api.tvmaze.com/episodes/3046583",
+                        "name": "Hanukkah at Hilda's"
                     },
                     "nextepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3046582",
-                        "name": "Nochebuena at the Funhouse"
+                        "href": "https://api.tvmaze.com/episodes/3046589",
+                        "name": "The Winter Mountain Art Show"
                     }
                 }
             }
@@ -11539,7 +11531,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 77,
+                "weight": 84,
                 "network": {
                     "id": 1039,
                     "name": "Disney Junior",
@@ -11568,12 +11560,12 @@
                         "href": "https://api.tvmaze.com/shows/55961"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3035246",
-                        "name": "Copycat Pete!"
+                        "href": "https://api.tvmaze.com/episodes/3046583",
+                        "name": "Hanukkah at Hilda's"
                     },
                     "nextepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3046582",
-                        "name": "Nochebuena at the Funhouse"
+                        "href": "https://api.tvmaze.com/episodes/3046589",
+                        "name": "The Winter Mountain Art Show"
                     }
                 }
             }
@@ -11655,17 +11647,17 @@
                     "original": "https://static.tvmaze.com/uploads/images/original_untouched/412/1030402.jpg"
                 },
                 "summary": "<p>Hang out with Ricky, Julian and Bubbles in Ricky's kitchen, smoking, drinking and talking about whatever the hell pops up in their fucked up brains.</p>",
-                "updated": 1732943747,
+                "updated": 1733507443,
                 "_links": {
                     "self": {
                         "href": "https://api.tvmaze.com/shows/62418"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3064881",
-                        "name": "Shitrockin' Around the World"
+                        "href": "https://api.tvmaze.com/episodes/3070639",
+                        "name": "Randy the Roadie"
                     },
                     "nextepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3070639",
+                        "href": "https://api.tvmaze.com/episodes/3077676",
                         "name": "TBA"
                     }
                 }
@@ -11731,7 +11723,7 @@
                 "rating": {
                     "average": 7
                 },
-                "weight": 95,
+                "weight": 96,
                 "network": null,
                 "webChannel": {
                     "id": 347,
@@ -11760,12 +11752,12 @@
                         "href": "https://api.tvmaze.com/shows/812"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3076120",
-                        "name": "Ep. #15003"
-                    },
-                    "nextepisode": {
                         "href": "https://api.tvmaze.com/episodes/3076121",
                         "name": "Ep. #15004"
+                    },
+                    "nextepisode": {
+                        "href": "https://api.tvmaze.com/episodes/3076122",
+                        "name": "Ep. #15005"
                     }
                 }
             }
@@ -11938,12 +11930,12 @@
                         "href": "https://api.tvmaze.com/shows/61086"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/2726634",
-                        "name": "Level Up 146"
-                    },
-                    "nextepisode": {
                         "href": "https://api.tvmaze.com/episodes/2726635",
                         "name": "Level Up 147"
+                    },
+                    "nextepisode": {
+                        "href": "https://api.tvmaze.com/episodes/2726636",
+                        "name": "Level Up 148"
                     }
                 }
             }
@@ -12024,18 +12016,18 @@
                     "original": "https://static.tvmaze.com/uploads/images/original_untouched/497/1243761.jpg"
                 },
                 "summary": "<p>NBC News provides viewers with up-to-the-minute national and international news.</p>",
-                "updated": 1733420507,
+                "updated": 1733507212,
                 "_links": {
                     "self": {
                         "href": "https://api.tvmaze.com/shows/73192"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3067359",
-                        "name": "Episode 228"
-                    },
-                    "nextepisode": {
                         "href": "https://api.tvmaze.com/episodes/3067360",
                         "name": "Episode 229"
+                    },
+                    "nextepisode": {
+                        "href": "https://api.tvmaze.com/episodes/3076362",
+                        "name": "Episode 230"
                     }
                 }
             }
@@ -12089,7 +12081,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 59,
+                "weight": 69,
                 "network": null,
                 "webChannel": {
                     "id": 311,
@@ -12112,14 +12104,14 @@
                     "original": "https://static.tvmaze.com/uploads/images/original_untouched/501/1254581.jpg"
                 },
                 "summary": "<p>Comedians are given makeovers to be transformed into someone completely new, and then have a fully improvised interview with host, Vic Michaelis.</p>",
-                "updated": 1732676787,
+                "updated": 1733506245,
                 "_links": {
                     "self": {
                         "href": "https://api.tvmaze.com/shows/74333"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3065427",
-                        "name": "Hayes Steele"
+                        "href": "https://api.tvmaze.com/episodes/3077675",
+                        "name": "Jukebox"
                     }
                 }
             }
@@ -12177,7 +12169,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 6,
+                "weight": 4,
                 "network": null,
                 "webChannel": {
                     "id": 619,
@@ -12431,7 +12423,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 33,
+                "weight": 34,
                 "network": null,
                 "webChannel": {
                     "id": 485,
@@ -12720,12 +12712,12 @@
                         "href": "https://api.tvmaze.com/shows/8035"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3035641",
-                        "name": "Lebenswege"
-                    },
-                    "nextepisode": {
                         "href": "https://api.tvmaze.com/episodes/3066095",
                         "name": "Alles verloren"
+                    },
+                    "nextepisode": {
+                        "href": "https://api.tvmaze.com/episodes/3066096",
+                        "name": "Alle f\u00fcr eine"
                     }
                 }
             }
@@ -12787,7 +12779,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 70,
+                "weight": 69,
                 "network": {
                     "id": 3,
                     "name": "ABC",
@@ -12819,18 +12811,18 @@
                     "original": "https://static.tvmaze.com/uploads/images/original_untouched/488/1221795.jpg"
                 },
                 "summary": "<p>News, lifestyle and entertainment program hosted by Eva Pilgrim, DeMarco Morgan and Dr. Jennifer Ashton.</p>",
-                "updated": 1733423946,
+                "updated": 1733508377,
                 "_links": {
                     "self": {
                         "href": "https://api.tvmaze.com/shows/72930"
                     },
                     "previousepisode": {
-                        "href": "https://api.tvmaze.com/episodes/3067363",
-                        "name": "Etienne Maurice, Tinashe"
-                    },
-                    "nextepisode": {
                         "href": "https://api.tvmaze.com/episodes/3067364",
                         "name": "Chef Yia Vang, Charly Edsitty, Bob Goff"
+                    },
+                    "nextepisode": {
+                        "href": "https://api.tvmaze.com/episodes/3076370",
+                        "name": "Episode 60"
                     }
                 }
             }
@@ -12884,7 +12876,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 79,
+                "weight": 65,
                 "network": null,
                 "webChannel": {
                     "id": 190,
@@ -12973,7 +12965,7 @@
                 "rating": {
                     "average": 7.8
                 },
-                "weight": 78,
+                "weight": 77,
                 "network": null,
                 "webChannel": {
                     "id": 238,
@@ -13250,7 +13242,7 @@
                 "rating": {
                     "average": null
                 },
-                "weight": 9,
+                "weight": 6,
                 "network": null,
                 "webChannel": {
                     "id": 616,
